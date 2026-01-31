@@ -1,65 +1,114 @@
-<h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Luis Matias</a></h1>
-<h3 align="center">Apasionado desarrollador web Chileno &#127470;&#127475</h3>
+# 🌌 Luis Matías Melo Guzmán
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+![Space Divider](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=200\&section=header\&text=Bienvenido%20a%20mi%20universo\&fontSize=32\&fontColor=ffffff)
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</div>
 
-- 🔭 Actualmente no estoy trabajando <a href="https://phoenix.tech/griffyn/" target="blank">Sin trabajo</a>
+## 🧑‍🚀 Sobre mí
 
-- 🌱 Actualmente estoy trabajando en nuevas paginas(React)
+Soy **Ingeniero en Informática** y **desarrollador web freelance**, apasionado por crear experiencias digitales que no solo funcionen, sino que *se sientan bien al usarlas*. Me muevo entre el **frontend creativo**, la **lógica backend**, y la experimentación con **tecnologías emergentes** como **AR, 3D y WebGL**.
 
-- 🤝 Dispobible para trabajos freelance.
-
-- 🌱 Actualmente aprendiendo mas sobre react y sus librerias <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DiasenReact</a>
-
-- 💬 Preguntame sobre **WEBS Y JUEGOS**
-
-- 📫 Como contactarme? **luismatiasmg07@gmail.com**
-
-- 📄 Un poco sobre mi desarrollo <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">jeje</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+Me gusta construir proyectos que mezclen **diseño, tecnología y utilidad real**, y constantemente estoy elevando el nivel de mis desarrollos para que destaquen tanto visual como técnicamente.
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+## 🛠️ Tecnologías & Herramientas
 
-Last Edited on: 08/08/2022
+### 🌐 Frontend
+
+* HTML5 · CSS3 · JavaScript (ES6+)
+* Bootstrap · Tailwind CSS
+* React (nivel intermedio)
+* UI/UX orientado a experiencia de usuario
+
+### ⚙️ Backend
+
+* PHP (sessions, auth, seguridad)
+* MySQL / MariaDB
+* Manejo de roles, login, registro y validaciones
+
+### 🧠 Extras & Exploración
+
+* Three.js · WebGL · Modelos 3D (GLTF / GLB)
+* Realidad Aumentada (AR en web)
+* Stripe Checkout (frontend)
+* Git · GitHub · XAMPP
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏗️ Plataforma de Fundación (Autogestión)
+
+* Login seguro
+* Gestión de usuarios y personal
+* Edición dinámica de contenido
+* Enfoque en usabilidad y administración real
+
+### ♻️ Sistema de Reciclaje de Telas
+
+* Registro con validaciones
+* Login con control de sesiones
+* Gestión de retiros
+* Seguridad en formularios
+
+### 🍽️ ARMENIU (Proyecto AR)
+
+* Previsualización de platos en tamaño real
+* Uso de cámara y AR en web
+* Enfoque en restaurantes y experiencia del cliente
+
+### 🌐 Sitios Informativos
+
+* Departamentos
+* Cervezas artesanales
+* Guitarras
+
+---
+
+## 🧪 En qué estoy trabajando ahora
+
+* Proyectos para **portafolio avanzado**
+* Integración de **Three.js** con storytelling
+* Experiencias web inmersivas
+* Mejora continua en **UI/UX**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## 🌌 Filosofía de desarrollo
+
+> *No basta con que funcione. Tiene que sentirse correcto.*
+
+Busco equilibrio entre **código limpio**, **buen diseño** y **experiencias memorables**. Me interesa el detalle, la estética oscura, los contrastes, las animaciones sutiles y todo lo que haga que un proyecto destaque.
+
+---
+
+## 📫 Contacto
+
+* 💼 Desarrollador Web Freelance
+* 📍 Chile
+* 🌐 Siempre abierto a nuevos desafíos
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2c5364,50:203a43,100:0f2027\&height=120\&section=footer)
+
+✨ *Construyendo ideas, línea por línea, en la oscuridad del espacio digital.* 🚀
+
+</div>
